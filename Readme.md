@@ -4,6 +4,12 @@ A basic prolog application that has the ability to show the route/paths among ci
 
 # Preview
 
+![main_image](https://drive.google.com/uc?id=1FwqXS1gSB-iO46jAaSFz4IJ3QxvXMMkX)
+<br>
+![intro_page](https://drive.google.com/uc?id=1MTVVtcFDwliz5eid1hb1c9_XjmQ9N5OG)
+<br>
+![all_paths](https://drive.google.com/uc?id=1efyAb9179QRhUtIExuYda35y6l_aZPWz)
+
 # Overview 📚
 
 This repository contains the route/path finding system for emergency vehicles such as police cars, ambulances and any other vehicle which a quick and shortest path needs.
